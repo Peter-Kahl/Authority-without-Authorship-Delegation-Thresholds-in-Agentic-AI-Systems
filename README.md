@@ -1,0 +1,2 @@
+# Authority-without-Authorship-Delegation-Thresholds-in-Agentic-AI-Systems
+This article reframes debates on agentic AI by arguing that authority can arise without authorship. It develops a threshold account showing how delegation, persistence, infrastructural embedding, and non-exit generate governance-relevant authority even in non-agent systems, with implications for responsibility and legitimacy.
