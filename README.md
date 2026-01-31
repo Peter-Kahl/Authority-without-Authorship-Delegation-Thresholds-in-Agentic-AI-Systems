@@ -18,7 +18,7 @@ authority without authorship; agentic ai; delegation; socio-technical systems; i
 
 ## Download
 
-- [Version v1](https://raw.githubusercontent.com/Peter-Kahl/From-Optional-Safety-to-Architectural-Responsibility/master/Kahl_P_Authority_without_Authorship_2026_01_31.pdf) ✅ _latest_
+- [Version v1](https://raw.githubusercontent.com/Peter-Kahl/Authority-without-Authorship-Delegation-Thresholds-in-Agentic-AI-Systems/master/Kahl_P_Authority_without_Authorship_2026_01_31.pdf) ✅ _latest_
 
 ## Cite this work
 
