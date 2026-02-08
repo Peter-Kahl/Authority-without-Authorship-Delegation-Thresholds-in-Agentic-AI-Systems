@@ -27,7 +27,7 @@ authority without authorship; agentic ai; delegation; socio-technical systems; i
 
 ## Publisher & Licence
 
-Version v1 published in London by Peter Kahl, 2026-01-31.
+Version v1 published in London by Peter Kahl, 2026-01-31.\
 Version v2 published by Peter Kahl, 2026-02-08.
 
 © 2026 Peter Kahl. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
